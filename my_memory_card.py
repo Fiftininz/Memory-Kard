@@ -6,7 +6,7 @@ from random import shuffle, randint
 app = QApplication([])
 main_win = QWidget()
 main_win.setWindowTitle('Memory card')
-
+#122222222222222222222222
 question = QLabel('Какой национальности не существует?')
 answer_button = QPushButton()
 answer_button.setText('Ответить')
